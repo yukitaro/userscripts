@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         GetThePics
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
+// @downloadURL  https://github.com/yukitaro/userscripts/blob/42981569630bf0360cc02bca6681f613a5b79fcd/GetThePics.user.js
+// @updateURL  https://github.com/yukitaro/userscripts/blob/42981569630bf0360cc02bca6681f613a5b79fcd/GetThePics.user.js
 // @description  try to take over the world!
 // @author       You
-// @match        https://en.futabakai-inc.com/parentportal-youchien*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=futabakai-inc.com
+// @match        
+// @icon         
 // @grant        none
 // ==/UserScript==
 
